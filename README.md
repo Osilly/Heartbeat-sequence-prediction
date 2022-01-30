@@ -18,3 +18,6 @@
 百度网盘地址为：https://pan.baidu.com/s/12ODnFTmBcXaWETdHI-6Ohg 
 提取码：m96j 
 
+## 重构版本
+
+更新了一份重构版本，代码比之前看起来舒服了一点（可能
